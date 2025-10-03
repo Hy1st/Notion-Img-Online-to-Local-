@@ -1,6 +1,7 @@
 # Build results
 bin/
 obj/
+NotionFiles/
 
 # User-specific files
 *.user
