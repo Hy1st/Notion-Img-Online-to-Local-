@@ -1,0 +1,25 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio files
+.vs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dotnet tooling
+*.log
+*.tmp
+
+# Rider / JetBrains IDE
+.idea/
+*.iml
